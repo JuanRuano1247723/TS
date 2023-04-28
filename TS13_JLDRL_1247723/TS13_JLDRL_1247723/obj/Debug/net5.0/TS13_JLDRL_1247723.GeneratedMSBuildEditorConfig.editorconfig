@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = TS13_JLDRL_1247723
+build_property.ProjectDir = C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\TS\TS13_JLDRL_1247723\TS13_JLDRL_1247723\
